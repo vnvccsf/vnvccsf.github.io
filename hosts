@@ -11941,4 +11941,6 @@
 0.0.0.0 d26us1doo6mh7f.cloudfront.net
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d2222t5nvb13ei.cloudfront.net
+#[alooma]
+0.0.0.0 inputs.alooma.com
 # END hostsVN ---
