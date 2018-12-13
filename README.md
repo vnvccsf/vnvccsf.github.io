@@ -6,7 +6,7 @@ Surge 2: <a href="https://is.gd/surge2">Here</a>
 
 Surge 3: <a href="https://is.gd/duPewC">Here</a>
 
-Quantumult:Link tải: <a href="https://is.gd/Quantumult">Here</a>
+Quantumult: <a href="https://is.gd/Quantumult">Here</a>
 
 Config Reject surge2 : <a href="https://github.com/vnvccsf/vnvccsf.github.io/raw/master/Reject-rule-for-Surge2.conf">Here</a>
 
