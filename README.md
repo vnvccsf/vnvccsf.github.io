@@ -6,6 +6,8 @@ Surge 2: <a href="https://is.gd/surge2">Here</a>
 
 Surge 3: <a href="https://is.gd/duPewC">Here</a>
 
+Shadowrocket 2.1.23: <a href="https://is.gd/Shadowrocket2123">Here</a>
+
 Quantumult: <a href="https://is.gd/Quantumult">Here</a>
 
 
