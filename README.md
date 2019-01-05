@@ -17,6 +17,6 @@ PASS: Vietnam++123
 
 Config Reject Surge2 : <a href="https://github.com/vnvccsf/vnvccsf.github.io/raw/master/Reject-rule-for-Surge2.conf">Here</a>
 
-Config Reject Shadowrocket : <a href="https://github.com/vnvccsf/vnvccsf.github.io/raw/master/Shadowrocket.config">Here</a>
+Config Reject Shadowrocket : <a href="https://github.com/vnvccsf/Blockads/raw/master/Shadowrocket/Shadowrocket.config">Here</a>
 
-Config Reject Quantumult : <a href="https://github.com/vnvccsf/vnvccsf.github.io/raw/master/Quantumult.config">Here</a>
+Config Reject Quantumult : <a href="https://github.com/vnvccsf/Blockads/raw/master/Quantumult/Quantumult.config">Here</a>
