@@ -11,9 +11,7 @@ Shadowrocket 2.1.23: <a href="https://is.gd/Shadowrocket2123">Here</a>
 Quantumult: <a href="https://is.gd/Quantumult">Here</a>
 
 
-Tài khoản đăng nhập: nhatminh_1801@icloud.com
 
-PASS: Vietnam++123
 
 Config Reject Surge2 : <a href="https://github.com/vnvccsf/vnvccsf.github.io/raw/master/Reject-rule-for-Surge2.conf">Here</a>
 
